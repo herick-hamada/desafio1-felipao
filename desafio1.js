@@ -1,6 +1,4 @@
-// Desafio Classificador de Nível de Herói
-
-let user = "Hero123"
+let user = "Hero123";
 let exp = 5.000;
 
 let elo;
@@ -23,4 +21,4 @@ if (exp < 1.000) {
     elo = "Radiante";
 }
 
-console.log ("O Herói de nome " + user + " está no nível de " + elo) 
+console.log (`O Herói de nome ${user} está no nível de ${elo}`) 
