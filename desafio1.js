@@ -1,7 +1,7 @@
 // Desafio Classificador de Nível de Herói
 
 let user = "Hero123"
-let exp = 5.000
+let exp = 5.000;
 
 let elo;
 
