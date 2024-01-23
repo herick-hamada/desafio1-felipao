@@ -1,5 +1,3 @@
-// Desafio Classificador de Nível de Herói
-
 let user = "Hero123";
 let exp = 5.000;
 
